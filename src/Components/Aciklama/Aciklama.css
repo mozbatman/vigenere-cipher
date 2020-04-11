@@ -1,0 +1,20 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.sol{
+    width: 50%;
+    display: inline-block;
+}
+.sag{
+    width: 50%;
+    display: inline-block;
+    
+}
+
+.img{
+    width: 40%;
+    margin: 0 auto;
+    display: block;
+}

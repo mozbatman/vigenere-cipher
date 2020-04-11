@@ -1,0 +1,12 @@
+input{
+    margin-top: 10px;
+    height: 30px;
+    width: 80%;
+    text-indent: 10px;
+}
+p{
+    text-align: left;
+}
+button{
+    margin: 15px;
+}

@@ -1,0 +1,18 @@
+input{
+    margin-top: 10px;
+    height: 30px;
+    width: 80%;
+    text-indent: 10px;
+}
+p{
+    text-align: left;
+}
+
+button{
+    margin: 15px;
+    padding: 5px;
+    background-color: #2f2f2f;
+    color: white;
+    border: 2px solid #2f2f2f;
+    border-radius: 10px;
+}
